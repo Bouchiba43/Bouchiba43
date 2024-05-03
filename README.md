@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about **Kubernetes, Docker, Helm , Nextjs... or anything [here](https://github.com/Bouchiba43/Bouchiba43/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Docker is the most popular "other tool" used by developers, with around 50% of developers utilizing it.**
 
  </div>
  
