@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,linux,prisma,laravel,tailwind,git,django" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,linux,prisma,laravel,tailwind,git,django,graphql,react" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,go,c,java,nextjs,mysql,fastapi" /><br>
 </div>
 
