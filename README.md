@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working on **a NextJs Website**
+ 🔭 I’m currently working on **a FastApi Application**
  
  🌱 I’m currently learning **Go, AWS , Fast Api**
 
