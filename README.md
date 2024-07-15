@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working on **a FastApi Application**
+ 🔭 I’m currently working on **a Golang(gin) Backend application**
  
- 🌱 I’m currently learning **Go, AWS , Fast Api**
+ 🌱 I’m currently learning **Go, AWS , CI/CD**
 
 💬 Ask me about **Kubernetes, Docker, Helm , Nextjs... or anything [here](https://github.com/Bouchiba43/Bouchiba43/issues)**
 
