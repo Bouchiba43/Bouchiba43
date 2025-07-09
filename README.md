@@ -18,21 +18,22 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Bouchiba!;" />
 </h1>
 
-<h2 align="center">A passionate software developer </h2>
+<h2 align="center">🚀 Passionate Software Engineer | Cloud & Backend Enthusiast</h2>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a Golang(gin) Backend application**
- 
- 🌱 I’m currently learning **Go, AWS , CI/CD**
 
-💬 Ask me about **Kubernetes, Docker, Helm , Nextjs... or anything [here](https://github.com/Bouchiba43/Bouchiba43/issues)**
+🔭 I’m currently developing a **backend application using Golang (Gin Framework)**
 
-⚡ Fun fact **Docker is the most popular "other tool" used by developers, with around 50% of developers utilizing it.**
+🌱 I'm expanding my expertise in **Go, AWS, and CI/CD practices**, and currently preparing for the **CKA**, **CKS**, and **AWS Certified Solutions Architect** certifications
 
- </div>
+💬 I'm open to discussions about **Kubernetes, Docker, Helm, Next.js**, or anything you're curious about — feel free to reach out [here](https://github.com/Bouchiba43/Bouchiba43/issues)
+
+⚡ Fun Fact: **Over 90% of organizations running containers use Kubernetes for orchestration, making it a critical skill in modern DevOps and cloud-native development**
+
+</div>
+
  
 <div align="center"> 
   <a href="mailto: bouchibaahmed43@gmail.com">
@@ -51,8 +52,8 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,linux,prisma,laravel,tailwind,git,django,graphql,react" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,go,c,java,nextjs,mysql,fastapi" /><br>
+  <img src="https://skillicons.dev/icons?i=go,githubactions,kubernetes,docker,aws,jenkins,linux,git,github,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,typescript,nextjs,react,tailwind,graphql" /><br>
 </div>
 
 <br/>
