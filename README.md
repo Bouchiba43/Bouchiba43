@@ -1,3 +1,8 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bouchiba43&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ahmed+Bouchiba!;" />
 </div>
@@ -125,8 +130,3 @@ Coming soon! Check out my repositories below 👇
   <i>💬 Open to collaborations and interesting discussions about cloud-native technologies!</i>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bouchiba43&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
