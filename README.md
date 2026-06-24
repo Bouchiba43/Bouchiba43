@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ahmed+Bouchiba!;" />
 </div>
 
-<h3 align="center">🚀 Software Engineer | Cloud & Backend Specialist | DevOps Enthusiast</h3>
+<h3 align="center">💡 Forward Deployed Engineer | ⚙️ DevOps & SRE | 🏗️ Turning Complex Problems into Reliable Production Systems</h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Bouchiba43.Bouchiba43" alt="visitors"/>
@@ -15,12 +15,15 @@
 
 ---
 
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" />
+
+
 ### 👨‍💻 About Me
 
 ```go
 package main
 
-type SoftwareEngineer struct {
+type ForwardDeployedEngineer struct {
     Name              string
     Location          string
     CurrentFocus      []string
@@ -30,7 +33,7 @@ type SoftwareEngineer struct {
 }
 
 func main() {
-    me := SoftwareEngineer{
+    me := ForwardDeployedEngineer{
         Name:     "Ahmed Bouchiba",
         Location: "Tunis, Tunisia",
         CurrentFocus: []string{
@@ -78,26 +81,22 @@ func main() {
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bouchiba43&show_icons=true&theme=react&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bouchiba43&layout=compact&theme=react&border_radius=10&langs_count=8"/>
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bouchiba43&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bouchiba43&theme=react&border_radius=10&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Bouchiba43&theme=react&border_radius=10" alt="GitHub Streak"/>
-</p>
+<br/>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bouchiba43&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies"/>
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bouchiba43&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bouchiba43&theme=react-dark&hide_border=true&radius=10" alt="Contribution Graph" />
+</div>
 
 ---
+
 
 ### 💡 Featured Projects
 
